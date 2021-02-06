@@ -1,0 +1,103 @@
+
+h1{ line-height: 2;
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+   font-size: 5.625rem;
+font-family: 'Sacramento', cursive;}
+h2{
+  padding-bottom:10px;
+  font-weight: normal;
+    color: #66BFBF;
+
+  font-family:'Montserrat',sans-serif;
+font-size: 2.5rem;}
+
+h3{color: #11999E;}
+
+
+body{background-color: #E4f9f6;
+   color:#40514e;
+  text-align: center;
+ font-family: 'Merriweather', serif;}
+.top{
+   padding-top:100px;
+  background-color:#E4f9f6;}
+
+.pro{text-decoration: underline;}
+
+.next{position:absolute;
+bottom:300px;
+left:200px;}
+.cloud{position:absolute;
+right:300px;
+top:40px;}
+hr{border-style: dotted;
+border-color:lightgrey;
+border-width:6px;
+border-top-style: none;
+width:4%;
+margin:100px auto;}
+
+p{  line-height: 2;}
+
+.skill-row
+{
+  text-align: left;
+
+  margin:100px auto 100px auto;
+  width:50%;}
+  .first{
+     width:25%;
+     float:left;
+     margin-right: 30px;  }
+.second{
+width:25%;
+float:right;
+margin-left: 30px;}
+.middle-container{margin:100px auto;}
+.pic{
+  width: 15%;
+}
+.cls{width:30%;
+margin:auto;}
+.contact-message{width:40%;
+margin:40px auto 60px;}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:'Montserrat',sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66bfbf;
+padding:50px 0 20px;
+font-family:'Montserrat',sans-serif;
+}
+a{margin:10px 20px;
+color: #11999e;
+text-decoration: none;}
+a:hover{color:#eaf6f6;}
+.oh{color: #eaf6f6;
+font-size: 0.7
+padding:20px 0;}
+;
